@@ -1,0 +1,11 @@
+/.vs
+/Library
+/obj
+/Assembly-CSharp.csproj
+/Unity.Analytics.DataPrivacy.csproj
+/Unity.CollabProxy.Editor.csproj
+/Unity.PackageManagerUI.Editor.csproj
+/Unity.TextMeshPro.csproj
+/Unity.TextMeshPro.Editor.csproj
+/Unity_Project.csproj
+/Unity_Project.sln

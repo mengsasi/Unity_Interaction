@@ -1,0 +1,2 @@
+include ':app', ':android_interaction_demo'
+rootProject.name='Android_Project'
