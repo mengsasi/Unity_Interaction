@@ -388,6 +388,7 @@ GameObject:
   m_Component:
   - component: {fileID: 260537077}
   - component: {fileID: 260537078}
+  - component: {fileID: 260537079}
   m_Layer: 0
   m_Name: Game
   m_TagString: Untagged
@@ -424,6 +425,21 @@ MonoBehaviour:
   Txt_Result: {fileID: 1306956891}
   BtnUnity_Android: {fileID: 114384942}
   BtnAndroid_Unity: {fileID: 1157657901}
+--- !u!114 &260537079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260537076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82af38d53d9fcc04680b773cab8babc3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Txt_Result: {fileID: 1306956891}
+  BtnUnity_IOS: {fileID: 453779725}
+  BtnIOS_Unity: {fileID: 1108374226}
 --- !u!1 &412714475
 GameObject:
   m_ObjectHideFlags: 0
